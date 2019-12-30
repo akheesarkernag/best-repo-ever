@@ -1,3 +1,3 @@
 # best-repo-ever
 Making changes, save and commit 
-error 
+Changing line 3
